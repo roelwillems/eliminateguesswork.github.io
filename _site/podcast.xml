@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Eliminate Guesswork - Assumption ≠ Insight</title>
+    <description>Assumption ≠ Insight</description>
+    <link>https://eliminateguess.work/</link>
+    <pubDate>Sat, 10 Nov 2018 20:41:30 +0100</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 20:41:30 +0100</lastBuildDate>
+	<itunes:image href="https://micro.blog/eliminateguesswork/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>Eliminate guesswork</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Eliminate guesswork</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
+	<language>en</language>
+    
+  </channel>
+</rss>
